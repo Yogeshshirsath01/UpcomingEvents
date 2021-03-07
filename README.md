@@ -4,7 +4,7 @@ The goal of this project is to provide minimalistic django project template that
 
 Template is written with django 1.11 and python 3 in mind.
 
-![Default Home View](__https://i.ibb.co/7CB20mV/Evenbrite-functions.png "Homepage with Events")
+![LCO Mascot](https://i.ibb.co/7CB20mV/Evenbrite-functions.png "LCO")
 
 ### Main features
 
