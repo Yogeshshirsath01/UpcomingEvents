@@ -8,6 +8,11 @@ Liked Events Page
 
 ![LCO Mascot](https://i.ibb.co/YfSt9t2/Liked-Events.png"LCO")
 
+Add Events
+
+![LCO Mascot](https://i.ibb.co/9GNHDXj/add-event.png"LCO")
+
+
 ### Features
 
 * User can post events
