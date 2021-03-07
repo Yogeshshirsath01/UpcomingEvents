@@ -4,7 +4,7 @@ Find the upcoming events in your area.
 
 ![LCO Mascot](https://i.ibb.co/7CB20mV/Evenbrite-functions.png "LCO")
 
-##Liked Events Page
+Liked Events Page
 
 ![LCO Mascot](https://i.ibb.co/YfSt9t2/Liked-Events.png"LCO")
 
